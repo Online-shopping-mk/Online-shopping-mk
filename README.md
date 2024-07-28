@@ -13,3 +13,5 @@ You can click the Preview link to take a look at your changes.
 فهرست 
 مشتری
 شماره
+آموزش 
+ثبت نام 
